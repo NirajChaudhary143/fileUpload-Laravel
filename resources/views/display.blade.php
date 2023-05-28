@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>Laravel DataTables Tutorial Example</title>
+    <title>File Upload</title>
         
 </head>
       <body>
